@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#container{
+	background-color:rgb(204, 204, 204);
+    text-align: center
+}
+#playlist{
+	text-align:left;
+	width:300px
+	background-color:white;
+	border:5px;
+	border-block-color:black;
+	width:300px
+	
+}
+.list{
+	list-style:none;
+	
+}
